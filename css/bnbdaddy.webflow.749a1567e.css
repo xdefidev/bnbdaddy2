@@ -3096,6 +3096,13 @@ figure {
     border-radius: 0px;
 }
 
+.road-table {
+    display: flex;
+    width: 100%;
+    text-align: center;
+
+}
+
 .container-grid-130 {
     display: -ms-grid;
     display: grid;
